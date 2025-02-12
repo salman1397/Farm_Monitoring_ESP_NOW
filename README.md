@@ -26,11 +26,11 @@ The system provides **low-power, long-range** communication without requiring **
 ## 🛠️ Components Used
 | Component | Description |
 |-----------|------------|
-| ![ESP32](assets/esp32.png) | ESP32 WiFi & BLE Module |
-| ![DHT11](assets/dht11.png) | Temperature & Humidity Sensor |
-| ![Soil Sensor](assets/soil_sensor.png) | Soil Moisture Sensor |
-| ![Battery](assets/battery.png) | Rechargeable Battery Module |
-| ![Solar Panel](assets/solar_panel.png) | Solar Panel for Powering the System |
+| ![ESP32](https://github.com/salman1397/images/blob/main/images/esp32.png) | ESP32 WiFi & BLE Module |
+| ![DHT11](https://github.com/salman1397/images/blob/main/images/dht11.jpg) | Temperature & Humidity Sensor |
+| ![Soil Sensor](https://github.com/salman1397/images/blob/main/images/soil.jpg) | Soil Moisture Sensor |
+| ![LCD Display](https://github.com/salman1397/images/blob/main/images/lcd.png) | LCD Display |
+
 
 ---
 
@@ -44,10 +44,6 @@ The system provides **low-power, long-range** communication without requiring **
 
 ## 📸 System Demonstration
 ![Farm Monitoring Demo](assets/farm_demo.gif)
-
----
-## 📸 Demo
-![System Demo](assets/demo.gif)
 <a href="https://www.youtube.com/watch?v=MPLpTi3KcIU">
     <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="40" height="40">
 </a>

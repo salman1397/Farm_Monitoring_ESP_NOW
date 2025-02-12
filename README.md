@@ -46,3 +46,33 @@ The system provides **low-power, long-range** communication without requiring **
 ![Farm Monitoring Demo](assets/farm_demo.gif)
 
 ---
+## 📸 Demo
+![System Demo](assets/demo.gif)
+<a href="https://www.youtube.com/watch?v=MPLpTi3KcIU">
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="40" height="40">
+</a>
+
+---
+
+## 📫 Let's Connect!
+
+<p align="left">
+<a href="https://www.linkedin.com/in/salman151397">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40">
+</a>
+<span style="display:inline-block; width: 250px;"></span>
+<a href="https://www.youtube.com/@SmartTechInsights-e9j">
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="40" height="40">
+</a>
+<span style="display:inline-block; width: 250px;"></span>
+<a href="mailto:salman151397@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40">
+</a>
+</p>
+
+
+
+
+
+[![GitHub Stars](https://img.shields.io/github/stars/salman1397/IoT_Home_Automation.svg?style=social)](https://github.com/salman1397/IoT_Home_Automation/blob/main/HomeAutomation/HomeAutomation.ino)
+---
